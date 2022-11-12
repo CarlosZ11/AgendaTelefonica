@@ -1,0 +1,43 @@
+E:\Agenda\Presentacion\bin\Debug\Presentacion.exe.config
+E:\Agenda\Presentacion\bin\Debug\Presentacion.exe
+E:\Agenda\Presentacion\bin\Debug\Presentacion.pdb
+E:\Agenda\Presentacion\bin\Debug\Entidades.dll
+E:\Agenda\Presentacion\bin\Debug\Logica.dll
+E:\Agenda\Presentacion\bin\Debug\Entidades.pdb
+E:\Agenda\Presentacion\bin\Debug\Logica.pdb
+E:\Agenda\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+E:\Agenda\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+E:\Agenda\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+E:\Agenda\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+E:\Agenda\Presentacion\obj\Debug\Presentacion.exe
+E:\Agenda\Presentacion\obj\Debug\Presentacion.pdb
+D:\Programación III 2022\Agenda\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Programación III 2022\Agenda\Presentacion\bin\Debug\Presentacion.exe
+D:\Programación III 2022\Agenda\Presentacion\bin\Debug\Presentacion.pdb
+D:\Programación III 2022\Agenda\Presentacion\bin\Debug\Entidades.dll
+D:\Programación III 2022\Agenda\Presentacion\bin\Debug\Logica.dll
+D:\Programación III 2022\Agenda\Presentacion\bin\Debug\Entidades.pdb
+D:\Programación III 2022\Agenda\Presentacion\bin\Debug\Logica.pdb
+D:\Programación III 2022\Agenda\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\Programación III 2022\Agenda\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+D:\Programación III 2022\Agenda\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Programación III 2022\Agenda\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\Programación III 2022\Agenda\Presentacion\obj\Debug\Presentacion.exe
+D:\Programación III 2022\Agenda\Presentacion\obj\Debug\Presentacion.pdb
+D:\Programación III 2022\Agenda\Presentacion\bin\Debug\Datos.dll
+D:\Programación III 2022\Agenda\Presentacion\bin\Debug\Datos.pdb
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Presentacion\bin\Debug\Presentacion.exe
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Presentacion\bin\Debug\Presentacion.pdb
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Presentacion\bin\Debug\Datos.dll
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Presentacion\bin\Debug\Entidades.dll
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Presentacion\bin\Debug\Logica.dll
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Presentacion\bin\Debug\Datos.pdb
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Presentacion\bin\Debug\Entidades.pdb
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Presentacion\bin\Debug\Logica.pdb
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Presentacion\obj\Debug\Presentacion.exe
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Presentacion\obj\Debug\Presentacion.pdb

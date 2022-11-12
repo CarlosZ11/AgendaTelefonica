@@ -1,0 +1,44 @@
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\2022-2\G01\S_Introduccionb\Datos\bin\Debug\Datos.dll
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\2022-2\G01\S_Introduccionb\Datos\bin\Debug\Datos.pdb
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\2022-2\G01\S_Introduccionb\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\2022-2\G01\S_Introduccionb\Datos\obj\Debug\Datos.dll
+E:\Johnp\Downloads\DATOS JOHNP\unicesar 2022\2022-2\G01\S_Introduccionb\Datos\obj\Debug\Datos.pdb
+D:\Programación III 2022\Taller1_G3\Datos\bin\Debug\Datos.dll
+D:\Programación III 2022\Taller1_G3\Datos\bin\Debug\Datos.pdb
+D:\Programación III 2022\Taller1_G3\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\Programación III 2022\Taller1_G3\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Programación III 2022\Taller1_G3\Datos\obj\Debug\Datos.dll
+D:\Programación III 2022\Taller1_G3\Datos\obj\Debug\Datos.pdb
+D:\Programación III 2022\Taller1\Datos\bin\Debug\Datos.dll
+D:\Programación III 2022\Taller1\Datos\bin\Debug\Datos.pdb
+D:\Programación III 2022\Taller1\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\Programación III 2022\Taller1\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Programación III 2022\Taller1\Datos\obj\Debug\Datos.dll
+D:\Programación III 2022\Taller1\Datos\obj\Debug\Datos.pdb
+F:\Agenda\Datos\bin\Debug\Datos.dll
+F:\Agenda\Datos\bin\Debug\Datos.pdb
+F:\Agenda\Datos\bin\Debug\Entidades.dll
+F:\Agenda\Datos\bin\Debug\Entidades.pdb
+F:\Agenda\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+F:\Agenda\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+F:\Agenda\Datos\obj\Debug\Datos.csproj.CopyComplete
+F:\Agenda\Datos\obj\Debug\Datos.dll
+F:\Agenda\Datos\obj\Debug\Datos.pdb
+D:\Programación III 2022\Agenda\Datos\bin\Debug\Datos.dll
+D:\Programación III 2022\Agenda\Datos\bin\Debug\Datos.pdb
+D:\Programación III 2022\Agenda\Datos\bin\Debug\Entidades.dll
+D:\Programación III 2022\Agenda\Datos\bin\Debug\Entidades.pdb
+D:\Programación III 2022\Agenda\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\Programación III 2022\Agenda\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Programación III 2022\Agenda\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\Programación III 2022\Agenda\Datos\obj\Debug\Datos.dll
+D:\Programación III 2022\Agenda\Datos\obj\Debug\Datos.pdb
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Datos\bin\Debug\Datos.dll
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Datos\bin\Debug\Datos.pdb
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Datos\bin\Debug\Entidades.dll
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Datos\bin\Debug\Entidades.pdb
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Datos\obj\Debug\Datos.dll
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Datos\obj\Debug\Datos.pdb

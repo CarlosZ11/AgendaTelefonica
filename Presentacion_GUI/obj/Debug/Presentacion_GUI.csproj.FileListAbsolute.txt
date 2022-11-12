@@ -1,0 +1,13 @@
+G:\Users\ESTUDIANTE\Documents\Nueva carpeta\Agenda1\Presentacion_GUI\bin\Debug\Presentacion_GUI.exe.config
+G:\Users\ESTUDIANTE\Documents\Nueva carpeta\Agenda1\Presentacion_GUI\bin\Debug\Presentacion_GUI.exe
+G:\Users\ESTUDIANTE\Documents\Nueva carpeta\Agenda1\Presentacion_GUI\bin\Debug\Presentacion_GUI.pdb
+G:\Users\ESTUDIANTE\Documents\Nueva carpeta\Agenda1\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.AssemblyReference.cache
+G:\Users\ESTUDIANTE\Documents\Nueva carpeta\Agenda1\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.SuggestedBindingRedirects.cache
+G:\Users\ESTUDIANTE\Documents\Nueva carpeta\Agenda1\Presentacion_GUI\obj\Debug\Presentacion_GUI.FrmPrincipal.resources
+G:\Users\ESTUDIANTE\Documents\Nueva carpeta\Agenda1\Presentacion_GUI\obj\Debug\Presentacion_GUI.Properties.Resources.resources
+G:\Users\ESTUDIANTE\Documents\Nueva carpeta\Agenda1\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.GenerateResource.cache
+G:\Users\ESTUDIANTE\Documents\Nueva carpeta\Agenda1\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.CoreCompileInputs.cache
+G:\Users\ESTUDIANTE\Documents\Nueva carpeta\Agenda1\Presentacion_GUI\obj\Debug\Presentacion_GUI.exe
+G:\Users\ESTUDIANTE\Documents\Nueva carpeta\Agenda1\Presentacion_GUI\obj\Debug\Presentacion_GUI.pdb
+G:\Users\ESTUDIANTE\Documents\Nueva carpeta\Agenda1\Presentacion_GUI\obj\Debug\Presentacion_GUI.FrmFamiliar.resources
+G:\Users\ESTUDIANTE\Documents\Nueva carpeta\Agenda1\Presentacion_GUI\obj\Debug\Presentacion_GUI.FrmEmpresarial.resources

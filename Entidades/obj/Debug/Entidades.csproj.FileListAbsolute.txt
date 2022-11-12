@@ -1,0 +1,18 @@
+E:\Agenda\Entidades\bin\Debug\Entidades.dll
+E:\Agenda\Entidades\bin\Debug\Entidades.pdb
+E:\Agenda\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+E:\Agenda\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Agenda\Entidades\obj\Debug\Entidades.dll
+E:\Agenda\Entidades\obj\Debug\Entidades.pdb
+F:\Agenda\Entidades\bin\Debug\Entidades.dll
+F:\Agenda\Entidades\bin\Debug\Entidades.pdb
+F:\Agenda\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+F:\Agenda\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\Agenda\Entidades\obj\Debug\Entidades.dll
+F:\Agenda\Entidades\obj\Debug\Entidades.pdb
+D:\Programación III 2022\Agenda\Entidades\bin\Debug\Entidades.dll
+D:\Programación III 2022\Agenda\Entidades\bin\Debug\Entidades.pdb
+D:\Programación III 2022\Agenda\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\Programación III 2022\Agenda\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Programación III 2022\Agenda\Entidades\obj\Debug\Entidades.dll
+D:\Programación III 2022\Agenda\Entidades\obj\Debug\Entidades.pdb

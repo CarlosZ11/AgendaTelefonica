@@ -1,0 +1,44 @@
+F:\Agenda\Logica\bin\Debug\Logica.dll
+F:\Agenda\Logica\bin\Debug\Logica.pdb
+F:\Agenda\Logica\bin\Debug\Datos.dll
+F:\Agenda\Logica\bin\Debug\Entidades.dll
+F:\Agenda\Logica\bin\Debug\Datos.pdb
+F:\Agenda\Logica\bin\Debug\Entidades.pdb
+F:\Agenda\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+F:\Agenda\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+F:\Agenda\Logica\obj\Debug\Logica.csproj.CopyComplete
+F:\Agenda\Logica\obj\Debug\Logica.dll
+F:\Agenda\Logica\obj\Debug\Logica.pdb
+E:\Agenda\Logica\bin\Debug\Logica.dll
+E:\Agenda\Logica\bin\Debug\Logica.pdb
+E:\Agenda\Logica\bin\Debug\Datos.dll
+E:\Agenda\Logica\bin\Debug\Entidades.dll
+E:\Agenda\Logica\bin\Debug\Datos.pdb
+E:\Agenda\Logica\bin\Debug\Entidades.pdb
+E:\Agenda\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+E:\Agenda\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+E:\Agenda\Logica\obj\Debug\Logica.csproj.CopyComplete
+E:\Agenda\Logica\obj\Debug\Logica.dll
+E:\Agenda\Logica\obj\Debug\Logica.pdb
+D:\Programación III 2022\Agenda\Logica\bin\Debug\Logica.dll
+D:\Programación III 2022\Agenda\Logica\bin\Debug\Logica.pdb
+D:\Programación III 2022\Agenda\Logica\bin\Debug\Datos.dll
+D:\Programación III 2022\Agenda\Logica\bin\Debug\Entidades.dll
+D:\Programación III 2022\Agenda\Logica\bin\Debug\Datos.pdb
+D:\Programación III 2022\Agenda\Logica\bin\Debug\Entidades.pdb
+D:\Programación III 2022\Agenda\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+D:\Programación III 2022\Agenda\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\Programación III 2022\Agenda\Logica\obj\Debug\Logica.csproj.CopyComplete
+D:\Programación III 2022\Agenda\Logica\obj\Debug\Logica.dll
+D:\Programación III 2022\Agenda\Logica\obj\Debug\Logica.pdb
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Logica\bin\Debug\Logica.dll
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Logica\bin\Debug\Logica.pdb
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Logica\bin\Debug\Datos.dll
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Logica\bin\Debug\Entidades.dll
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Logica\bin\Debug\Datos.pdb
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Logica\bin\Debug\Entidades.pdb
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Logica\obj\Debug\Logica.csproj.CopyComplete
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Logica\obj\Debug\Logica.dll
+D:\Ingeniería de Sistemas\Programación III 2022\Agenda\Logica\obj\Debug\Logica.pdb

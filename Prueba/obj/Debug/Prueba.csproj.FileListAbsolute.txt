@@ -1,0 +1,41 @@
+E:\Agenda\Prueba\bin\Debug\Prueba.exe.config
+E:\Agenda\Prueba\bin\Debug\Prueba.exe
+E:\Agenda\Prueba\bin\Debug\Prueba.pdb
+E:\Agenda\Prueba\bin\Debug\Entidades.dll
+E:\Agenda\Prueba\bin\Debug\Entidades.pdb
+E:\Agenda\Prueba\obj\Debug\Prueba.csproj.AssemblyReference.cache
+E:\Agenda\Prueba\obj\Debug\Prueba.csproj.SuggestedBindingRedirects.cache
+E:\Agenda\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+E:\Agenda\Prueba\obj\Debug\Prueba.csproj.CopyComplete
+E:\Agenda\Prueba\obj\Debug\Prueba.exe
+E:\Agenda\Prueba\obj\Debug\Prueba.pdb
+D:\Programación III 2022\Agenda\Prueba\bin\Debug\Prueba.exe.config
+D:\Programación III 2022\Agenda\Prueba\bin\Debug\Prueba.exe
+D:\Programación III 2022\Agenda\Prueba\bin\Debug\Prueba.pdb
+D:\Programación III 2022\Agenda\Prueba\bin\Debug\Entidades.dll
+D:\Programación III 2022\Agenda\Prueba\bin\Debug\Entidades.pdb
+D:\Programación III 2022\Agenda\Prueba\obj\Debug\Prueba.csproj.AssemblyReference.cache
+D:\Programación III 2022\Agenda\Prueba\obj\Debug\Prueba.csproj.SuggestedBindingRedirects.cache
+D:\Programación III 2022\Agenda\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+D:\Programación III 2022\Agenda\Prueba\obj\Debug\Prueba.csproj.CopyComplete
+D:\Programación III 2022\Agenda\Prueba\obj\Debug\Prueba.exe
+D:\Programación III 2022\Agenda\Prueba\obj\Debug\Prueba.pdb
+D:\Programación III 2022\Agenda\Prueba\bin\Debug\Datos.dll
+D:\Programación III 2022\Agenda\Prueba\bin\Debug\Logica.dll
+D:\Programación III 2022\Agenda\Prueba\bin\Debug\Datos.pdb
+D:\Programación III 2022\Agenda\Prueba\bin\Debug\Logica.pdb
+F:\Agenda\Prueba\bin\Debug\Prueba.exe.config
+F:\Agenda\Prueba\bin\Debug\Prueba.exe
+F:\Agenda\Prueba\bin\Debug\Prueba.pdb
+F:\Agenda\Prueba\bin\Debug\Datos.dll
+F:\Agenda\Prueba\bin\Debug\Entidades.dll
+F:\Agenda\Prueba\bin\Debug\Logica.dll
+F:\Agenda\Prueba\bin\Debug\Datos.pdb
+F:\Agenda\Prueba\bin\Debug\Entidades.pdb
+F:\Agenda\Prueba\bin\Debug\Logica.pdb
+F:\Agenda\Prueba\obj\Debug\Prueba.csproj.AssemblyReference.cache
+F:\Agenda\Prueba\obj\Debug\Prueba.csproj.SuggestedBindingRedirects.cache
+F:\Agenda\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+F:\Agenda\Prueba\obj\Debug\Prueba.csproj.CopyComplete
+F:\Agenda\Prueba\obj\Debug\Prueba.exe
+F:\Agenda\Prueba\obj\Debug\Prueba.pdb
